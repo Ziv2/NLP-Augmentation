@@ -1,7 +1,7 @@
 # NLP-Augmentation
 
 
-What is this?
+At this git you can find: 
 # A tool to generate synthetic text in order to augment training NLP models. 
 This tool uses WordTune app to create a synthetic text.
 
